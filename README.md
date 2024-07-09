@@ -5,7 +5,7 @@ Aspiring software engineer. Passionate about team projects and improving code qu
 
 <br> 
 
-- 💪 Driven by a keen interest in web development and a strong desire to learn.
+- 💪 Driven by a keen interest in web development and a desire to learn.
 - 🙌 I am constantly seeking new opportunities to enhance my skills
 - ✉️  You can contact me at [rashminattoji24@gmail.com](mailto:rashminattoji24@gmail.com)
 
