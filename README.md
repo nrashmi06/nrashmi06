@@ -1,4 +1,5 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Rashmi N </h1>
 Aspiring software engineer. Passionate about team projects and improving code quality. Always looking to learn and grow.
 
 
