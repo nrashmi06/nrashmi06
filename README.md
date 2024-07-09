@@ -40,6 +40,7 @@ Aspiring software engineer. Passionate about team projects and improving code qu
 </p>
 
 ### Badges
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nrashmi06&show_icons=true&hide=issues&theme=dracula)](https://github.com/nrashmi06)
 
 <b>My GitHub Stats</b>
 
