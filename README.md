@@ -19,4 +19,6 @@ Aspiring software engineer. Passionate about team projects and improving code qu
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nrashmi06"><img src="https://github-readme-stats.vercel.app/api?username=nrashmi06&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nrashmi06's GitHub stats" /></a>
+<a href="http://www.github.com/nrashmi06"><img src="https://github-readme-stats.vercel.app/api?username=nrashmi06&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=0f172a&hide_border=true&show_icons=true" alt="nrashmi06's GitHub stats" /></a>
+
+<a href="http://www.github.com/nrashmi06"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nrashmi06&stroke=14b8a6&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
